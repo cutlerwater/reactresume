@@ -65,7 +65,8 @@
         "url": "https://www.facebook.com/cutlerwater"
       },
       {
-        "class": "ui uil-stackoverflow",
+        "class": "ui uil-stackoverflow-alt",
+        "src": "/img/portfolio/eclipse.png",
         "name": "stack overflow",
         "url": "https://stackoverflow.com/users/11222195/garrett-cutler"
       }

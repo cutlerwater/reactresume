@@ -48,7 +48,7 @@ export const Footer = ({ data }) => {
                         </FooterSocials>
                     </FooterSubContainer>
                 </Container>
-                <FooterCopy>&#169; Created by <span>{data.name}</span> - powerd by <span>NextJS</span></FooterCopy>
+                <FooterCopy>&#169; Created by <span>{data.name}</span> - powered by <span>NextJS</span></FooterCopy>
             </FooterBackground>
         </FooterContainer>
     );
