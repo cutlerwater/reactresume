@@ -10,4 +10,5 @@ export { Portfolio } from "./Portfolio/Portfolio";
 export { Project } from "./Project/Project";
 export { Contact } from "./Contact/Contact";
 export { ScrollUp } from "./ScrollUp/ScrollUp";
+// export { Testimonial } from "./Testimonial/Testimonial";
 export { Footer } from "./Footer/Footer";

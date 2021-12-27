@@ -3,7 +3,7 @@ import Head from "next/head";
 export const NextHead = () => {
     return (
         <Head>
-            <title>Omar's Portfolio | Resume</title>
+            <title>Garrett's Portfolio | Resume</title>
 
             {/* Favicon */}
             <link rel="icon" href="/favicon.png" />
