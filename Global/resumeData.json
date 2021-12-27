@@ -332,6 +332,14 @@
       "description": "A very clean and simple weather app based on React.",
       "url": "https://meta-challenge-eosin.vercel.app/"
     }
+    {
+      "id": 11,
+      "src": "/img/portfolio/oldportfolio.png",
+      "alt": "Older Portfolio",
+      "title": "Older Portfolio",
+      "description": "The previous portfolio and links to more projects",
+      "url": "https://cutlerwater-profile.netlify.app/"
+    }
   ],
   "testimonial": [
     {
