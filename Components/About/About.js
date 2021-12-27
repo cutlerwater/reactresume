@@ -29,7 +29,7 @@ export const About = ({ data }) => {
                         <AboutBtns>
                             <Button
                                 download={true}
-                                href="/pdf/Omar Hassan-CV2021.pdf"
+                                href="/pdf/PlanetResume.pdf"
                                 flex
                             >
                                 <ButtonSpan>Download CV</ButtonSpan>

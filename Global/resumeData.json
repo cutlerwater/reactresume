@@ -44,40 +44,45 @@
     }
   ],
   "main": {
-    "name": "Omar",
-    "title": "Frontend developer",
-    "description": "I’m also a front-end developer with a keen eye for creating beautiful UIs, producing quality work.",
-    "image": "/img/me.png",
+    "name": "Garrett",
+    "title": "Full stack developer",
+    "description": "I’m an aspiring full stack developer with a keen eye for creating unique UIs, producing quality work.",
+    "image": "/img/me1.jpg",
     "social": [
       {
         "class": "ui uil-linkedin-alt",
         "name": "Linked In",
-        "url": "https://www.linkedin.com/in/omar-hassan-8b1869137"
+        "url": "https://www.linkedin.com/in/garrett-cutler-20b52311/"
       },
       {
         "class": "ui uil-github-alt",
         "name": "Github",
-        "url": "https://github.com/oomaar"
+        "url": "https://github.com/cutlerwater"
       },
       {
         "class": "ui uil-facebook-f",
         "name": "facebook",
-        "url": "https://www.facebook.com/omarhassan16694"
+        "url": "https://www.facebook.com/cutlerwater"
+      },
+      {
+        "class": "ui uil-stackoverflow",
+        "name": "stack overflow",
+        "url": "https://stackoverflow.com/users/11222195/garrett-cutler"
       }
     ]
   },
   "about": {
-    "bio": "I am a creative Frontend Engineer and a Self-Learner. I have always been passionate about everything related to technology and programming, especially the web professions, which I made my career by always giving the best I can as a Web Developer. I always find coding a very engaging hobby, bringing a Code up to life & taking shape step-by-step is a blast. Besides coding, I like to travel to new places and discover new ideas.",
+    "bio": "I am a seasoned IT engineer, a SharePoint specialist, a migration engineer, a Power Platform engineer and now I'm working on my skills as a full stack developer.  I love coding, developing, and seeing what else is possible.  I have had a passion about technology since I had my first Atari system when I was 8 years old.  Besides coding and engineering, I have another passion in politics, cigars, and having fun with family and friends.",
     "experienceYears": "0",
     "completedProjects": "0",
     "companiesWorked": "0",
-    "image": "/img/me-badla.jpg"
+    "image": "/img/me1.jpg"
   },
   "skill": [
     {
       "id": 1,
       "title": "Frontend developer",
-      "subTitle": "More than 3 years",
+      "subTitle": "More than 10 years",
       "icon": "uil uil-arrow",
       "skills": [
         {
@@ -106,7 +111,7 @@
         },
         {
           "id": "front-a5",
-          "name": "Styled-Components",
+          "name": "ThreeJS",
           "number": "75%",
           "width": "75"
         }
@@ -115,7 +120,7 @@
     {
       "id": 2,
       "title": "Backend developer",
-      "subTitle": "More than 1 year",
+      "subTitle": "More than 3 years",
       "icon": "ui uil-server-network",
       "skills": [
         {
@@ -126,7 +131,7 @@
         },
         {
           "id": "back-a2",
-          "name": "Express",
+          "name": "MySQL",
           "number": "60%",
           "width": "60"
         },
@@ -143,27 +148,8 @@
           "width": "65"
         }
       ]
-    },
-    {
-      "id": 3,
-      "title": "Designer",
-      "subTitle": "More than 4 years",
-      "icon": "uil uil-palette",
-      "skills": [
-        {
-          "id": "design-a1",
-          "name": "Photoshop",
-          "number": "80%",
-          "width": "90"
-        },
-        {
-          "id": "design-a2",
-          "name": "Illustrator",
-          "number": "60%",
-          "width": "60"
-        }
-      ]
     }
+    
   ],
   "qualification": {
     "education": [
@@ -171,37 +157,28 @@
         "id": "1",
         "category": "education",
         "position": "left",
-        "title": "Computer Science",
-        "subtitle": "Cairo - Future University in Egypt (FUE)",
-        "start": "2012",
-        "finish": "2017"
+        "title": "Political Science",
+        "subtitle": "University of Maryland Baltimore County",
+        "start": "1995",
+        "finish": "1998"
       },
       {
         "id": "2",
         "category": "education",
         "position": "left",
-        "title": "Graphic Design",
-        "subtitle": "Cairo - Russian Cultural Center",
-        "start": "2017",
-        "finish": "2018"
+        "title": "Microsoft Engineer",
+        "subtitle": "Self Study",
+        "start": "2001",
+        "finish": "2021"
       },
       {
         "id": "3",
         "category": "education",
         "position": "right",
         "title": "Web Development Course ",
-        "subtitle": "Cairo - Future University in Egypt (FUE)",
-        "start": "2018",
-        "finish": "2019"
-      },
-      {
-        "id": "4",
-        "category": "education",
-        "position": "right",
-        "title": "Full-Stack",
-        "subtitle": "UK - App Brewery",
-        "start": "2019",
-        "finish": "2020"
+        "subtitle": "Online learning",
+        "start": "2001",
+        "finish": "2022"
       }
     ],
     "work": [
@@ -209,27 +186,27 @@
         "id": "1",
         "category": "work",
         "position": "right",
-        "title": "Software Enginner",
-        "subtitle": "PAS - Cairo",
-        "start": "2016",
-        "finish": "2018"
+        "title": "SharePoint Administrator, IT Engineer",
+        "subtitle": "Lockheed, CFocus, HP, etc...",
+        "start": "1999",
+        "finish": "2017"
       },
       {
         "id": "2",
         "category": "work",
         "position": "left",
-        "title": "Graphic Designer",
-        "subtitle": "Up for Cairo - Cairo",
-        "start": "2018",
-        "finish": "2019"
+        "title": "It Consultant",
+        "subtitle": "Applied Information Sciences",
+        "start": "2017",
+        "finish": "2018"
       },
       {
         "id": "3",
         "category": "work",
         "position": "left",
-        "title": "Freelance",
-        "subtitle": "Home - Egypt",
-        "start": "2019",
+        "title": "It Consultant",
+        "subtitle": "Planet Technologies",
+        "start": "2018",
         "finish": "Now"
       }
     ]
@@ -277,51 +254,83 @@
   "portfolio": [
     {
       "id": 1,
-      "src": "/img/portfolio/beats-circle.jpg",
-      "alt": "Beats shop",
-      "title": "Beats Shop",
-      "description": "Fully Responsive covid-19 Tracker using ReactJS and Styled Components.",
-      "url": "https://beats-shop.vercel.app/"
+      "src": "/img/portfolio/eclipse.png",
+      "alt": "3D Worlds",
+      "title": "3D Worlds",
+      "description": "I've really outdone myself now with several 3d worlds using ThreeJS and Skybox pictures.  Some really fun stuff here too.  I've recently added quite a few more new worlds and categorized them..",
+      "url": "https://3dworld-cutlerwater.netlify.app/"
     },
     {
       "id": 2,
-      "src": "/img/portfolio/covid-tracker.jpg",
-      "alt": "Covid-19 Tracker",
-      "title": "Covid-19 Tracker (ReactJS)",
-      "description": "Fully Responsive covid-19 Tracker using ReactJS and Styled Components.",
-      "url": "https://covid-19-tracker-16970.web.app/"
+      "src": "/img/portfolio/cocktails.png",
+      "alt": "Cocktails",
+      "title": "Cocktails Index",
+      "description": "Thanks to React and an API, I created a pretty useful cocktail index where you can view details of any known cocktail as well as search for one if you don't see it initially.  It will even tell you how to make the drink and what glass to use.",
+      "url": "https://cutlerwater-cocktailsindex.netlify.app/"
     },
     {
       "id": 3,
-      "src": "/img/portfolio/makeup.jpg",
-      "alt": "Makeup Store Demo",
-      "title": "Makeup Store Demo (ReactJS)",
-      "description": "Developed Fully Responsive with ReactJS and Styled-components.",
-      "url": "https://serene-spence-a7962f.netlify.app/"
+      "src": "/img/portfolio/country.png",
+      "alt": "Countries index",
+      "title": "Countries index",
+      "description": "Again, thanks to ReactJS and an API, I created a rather useful reference site for looking up countries and details about said country.",
+      "url": "https://cutlerwater-countries-index.netlify.app/"
     },
     {
       "id": 4,
-      "src": "/img/portfolio/netflix.jpg",
-      "alt": "Netflix Clone",
-      "title": "Netflix Clone (ReactJS)",
-      "description": "Developed using ReactJS, Styled-components, Compound Components and Firebase.",
-      "url": "https://dreamy-meninsky-4d3cd3.netlify.app/"
+      "src": "/img/portfolio/rain.png",
+      "alt": "Rain and lightning effect",
+      "title": "Rain and lightning effect",
+      "description": "Another simple page with some cool rain and lightning cloud effects.",
+      "url": "https://cutlerwater-itsraining.netlify.app/"
     },
     {
       "id": 5,
-      "src": "/img/portfolio/geforce.jpg",
-      "alt": "Geforce Clone",
-      "title": "Geforce Clone (NextJS)",
-      "description": "Fully Responsive using NextJS and Styled Components.",
-      "url": "https://geforce-clone-oomaar.vercel.app/"
+      "src": "/img/portfolio/portal.png",
+      "alt": "Thanos Portal",
+      "title": "Thanos Portal",
+      "description": "Welcome to my portal into the Cutlerwater universe.  To infinity and who knows where.",
+      "url": "https://cutlerwater-portal.netlify.app/"
     },
     {
       "id": 6,
-      "src": "/img/portfolio/twitter.jpg",
-      "alt": "Twitter Clone",
-      "title": "Twitter Clone (ReactJS)",
-      "description": "Fully Responsive Twitter Clone developed with ReactJS, Styled-components and Firebase.",
-      "url": "https://twitter-4e819.web.app/"
+      "src": "/img/portfolio/orb.png",
+      "alt": "3d Orb",
+      "title": "3d Orb",
+      "description": "Now this is even cooler I think.  Using threeJS's magic, I created a 3d orbital view of St. Peter's Basilica in Rome.  To use it just click on the orb and move the mouse around and you'll see what I mean.",
+      "url": "https://cutlerwater-3dmirror.netlify.app/"
+    },
+    {
+      "id": 7,
+      "src": "/img/portfolio/weight-lifting.webp",
+      "alt": "Gym Websites",
+      "title": "Gym Websites",
+      "description": "I'm consolidating two exercise related sites into one.  The first will be my new responsive html site that a public gym could use and the second is my workout tracker.  There is a link on both to go back and forth.  Check them out!",
+      "url": "https://cutlerwater-gym-website.netlify.app/"
+    },
+    {
+      "id": 8,
+      "src": "/img/portfolio/crypto.jpg",
+      "alt": "Crypto App",
+      "title": "Crypto App",
+      "description": "Here's something useful, a cryptocurrency app that tracks all the different cryptocurrencies and relates the news about them. I'm trying to educate myself about cryptocurrencies and I figured this would be a great start.  The news part isn't functioning yet though. There's also a link to my budget app.",
+      "url": "https://cutlerwater-cryptoapp.netlify.app/"
+    },
+    {
+      "id": 9,
+      "src": "/img/portfolio/meta.png",
+      "alt": "Metaverse App",
+      "title": "Metaverse App",
+      "description": "Here's something different but really has a lot of potential.  It's a decentralized chat app that uses a new kind of login system.  The login requires Metamask or something like it, a third party authentication system.",
+      "url": "https://meta-challenge-eosin.vercel.app/"
+    },
+    {
+      "id": 10,
+      "src": "/img/portfolio/weather.png",
+      "alt": "Weather App",
+      "title": "Weather App",
+      "description": "A very clean and simple weather app based on React.",
+      "url": "https://meta-challenge-eosin.vercel.app/"
     }
   ],
   "testimonial": [
@@ -369,8 +378,8 @@
     }
   ],
   "contact": {
-    "phone": "002-011-4012-5555",
-    "email": "omaar_5@hotmail.com",
-    "location": "Egypt - Cairo, Heliopolis"
+    "phone": "240-271-9036",
+    "email": "gcutler@go-planet.com",
+    "location": "Annapolis, MD area"
   }
 }
