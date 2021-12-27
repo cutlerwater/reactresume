@@ -28,7 +28,7 @@ export const Footer = ({ data }) => {
                     <FooterSubContainer>
                         <div>
                             <FooterTitle>{data.name}</FooterTitle>
-                            <FooterSubTitle>Frontend Developer</FooterSubTitle>
+                            <FooterSubTitle>Fullstack Developer</FooterSubTitle>
                         </div>
 
                         <FooterList>
