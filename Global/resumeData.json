@@ -331,7 +331,7 @@
       "alt": "Weather App",
       "title": "Weather App",
       "description": "A very clean and simple weather app based on React.",
-      "url": "https://meta-challenge-eosin.vercel.app/"
+      "url": "https://cutlerwater-weatherapp.netlify.app"
     },
     {
       "id": 11,
@@ -342,11 +342,27 @@
       "url": "https://cutlerwater-profile.netlify.app/"
     },
     {
-      "id": 1,
+      "id": 12,
       "src": "https://links.papareact.com/qd3",
       "alt": "My AIRBNB clone",
       "title": "My AIRBNB clone",
       "description": "I created a clone of the AirBNB site using NextJS and TailwindCSS.  TailwindCSS is awesome!  No need for separate CSS files. This isn't a fully working site, just a clone.",
+      "url": "https://myairbnbclone-three.vercel.app/"
+    },
+    {
+      "id": 13,
+      "src": "/img/portfolio/logo.jpg",
+      "alt": "Padron Cigar Promo",
+      "title": "Padron Cigar Promo",
+      "description": "I created a page to highlight Padron Cigars, hoping to build on it.  I used ReactJS and Styled Components",
+      "url": "https://cutlerwater-padroncigars.netlify.app/"
+    },
+    {
+      "id": 14,
+      "src": "/img/portfolio/beats.png",
+      "alt": "Beats Promo",
+      "title": "Beats Promo",
+      "description": "I created a page to highlight the Beats products, hoping to build on it.  I used ReactJS and Styled Components.",
       "url": "https://myairbnbclone-three.vercel.app/"
     }
   ],
