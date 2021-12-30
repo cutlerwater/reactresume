@@ -364,6 +364,14 @@
       "title": "Beats Promo",
       "description": "I created a page to highlight the Beats products, hoping to build on it.  I used ReactJS and Styled Components.",
       "url": "https://cutlerwater-beatsapp.netlify.app/"
+    },
+    {
+      "id": 15,
+      "src": "/img/portfolio/linktastic.png",
+      "alt": "Linktastic",
+      "title": "Linktastic",
+      "description": "I created a simple but useful page to provide links to my social media sites and others.",
+      "url": "https://cutlerwater-linkistic.netlify.app/?"
     }
   ],
   "testimonial": [
