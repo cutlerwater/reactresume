@@ -255,6 +255,14 @@
   "portfolio": [
     {
       "id": 1,
+      "src": "/img/portfolio/StarWars.png",
+      "alt": "Star Wars Site",
+      "title": "Star Wars Site",
+      "description": "I've cloned/created a Star Wars site showing all the major and minor characters from the Star Wars movies (not the series).  Each character has their own bio.",
+      "url": "https://cutlerwater-starwarssite.netlify.app/"
+    },
+    {
+      "id": 1,
       "src": "/img/portfolio/eclipse.png",
       "alt": "3D Worlds",
       "title": "3D Worlds",
